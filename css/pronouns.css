@@ -40,3 +40,7 @@ table.pronouns .rank td {
     font-weight: 100;
     font-size: 0.9em;
 }
+
+strong  {
+    color: #f0ad4e;
+}
