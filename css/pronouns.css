@@ -41,6 +41,19 @@ table.pronouns .rank td {
     font-size: 0.9em;
 }
 
-strong  {
+.tooltip-inner {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1em;
+    font-weight: 100;
+}
+.tooltip-inner strong  {
     color: #f0ad4e;
+    font-weight: 400;
+}
+.tooltip-inner .en {
+    font-size: 0.9em;
+    color: #999;
+}
+.tooltip-inner .en strong {
+    color: #999;
 }
