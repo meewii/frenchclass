@@ -34,6 +34,9 @@ table.pronouns td {
     height: 3rem;
     vertical-align: middle;
 }
+td.hover, td.hover i {
+    color: #F00;
+}
 table.pronouns .rank td {
     background-color: #333;
     font-weight: 100;
