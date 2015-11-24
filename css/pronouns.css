@@ -1,11 +1,8 @@
-* {
-    color:#FFF;
-}
-
 body {
-    background: url("slash_it.png") repeat 0 0;
+    background: url("img/slash_it.png") repeat 0 0;
     font-family: 'Roboto Slab', serif;
     font-weight: 300;
+    color:#FFF;
 }
 
 h1 {
@@ -21,7 +18,7 @@ table.pronouns {
     text-align: center;
 }
 table.pronouns td.head {
-    padding: 1em;
+    padding: 1em 0 0.2em;
     font-weight: 700;
     background-color: rgba(0,0,0,0);
     border:0 none;
@@ -31,8 +28,9 @@ table.pronouns td {
     background-color: #222;
     border:1px solid #111;
     width: 11.1%;
-    height: 3rem;
+    height: 4rem;
     vertical-align: middle;
+    font-size: 1.1em;
 }
 td.hover, td.hover i {
     color: #F00;
@@ -40,5 +38,5 @@ td.hover, td.hover i {
 table.pronouns .rank td {
     background-color: #333;
     font-weight: 100;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
