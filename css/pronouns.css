@@ -25,12 +25,14 @@ table.pronouns td.head {
     font-weight: 700;
     background-color: rgba(0,0,0,0);
     border:0 none;
+    vertical-align: bottom;
 }
 table.pronouns td {
     background-color: #222;
-    padding: 1em;
     border:1px solid #111;
     width: 11.1%;
+    height: 3rem;
+    vertical-align: middle;
 }
 table.pronouns .rank td {
     background-color: #333;
